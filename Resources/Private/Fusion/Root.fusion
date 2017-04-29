@@ -14,4 +14,7 @@ root {
     }
 }
 
+# We should remove the use of the layout/sublayout feature completly from the demo site
+default = Neos.Demo:Base.Document
+page = Neos.Demo:Base.Document
 landingPage = Neos.Demo:Homepage.Document
