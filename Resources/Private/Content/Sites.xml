@@ -17,7 +17,6 @@
                     </lastPublicationDateTime>
                     <properties>
                         <title __type="string">Home</title>
-                        <layout __type="string">landingPage</layout>
                         <uriPathSegment __type="string">home</uriPathSegment>
                         <image __type="object" __identifier="1ccc457e-5c8b-4062-a9e5-77a8696a0e63"
                                __classname="Neos\Media\Domain\Model\ImageVariant" __encoding="json">{&quot;__identity&quot;:&quot;1ccc457e-5c8b-4062-a9e5-77a8696a0e63&quot;,&quot;originalAsset&quot;:{&quot;__identity&quot;:&quot;cd3e00c5-fee4-4a65-af30-4a0f98a1c040&quot;,&quot;title&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;KeyVisual.jpg&quot;,&quot;hash&quot;:&quot;43e0e13020b07f24180e6306eaae9a21d02601c7&quot;,&quot;__identity&quot;:&quot;fdfdfd14-e0b6-4495-b99f-e00b193f060e&quot;}},&quot;adjustments&quot;:[{&quot;height&quot;:1498,&quot;position&quot;:10,&quot;width&quot;:3000,&quot;x&quot;:0,&quot;y&quot;:0,&quot;__identity&quot;:&quot;48ebc1ca-93e0-4e36-be7a-ba7c07119093&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment&quot;},{&quot;allowUpScaling&quot;:false,&quot;height&quot;:1254,&quot;maximumHeight&quot;:null,&quot;maximumWidth&quot;:null,&quot;minimumHeight&quot;:null,&quot;minimumWidth&quot;:null,&quot;position&quot;:20,&quot;ratioMode&quot;:&quot;&quot;,&quot;width&quot;:2508,&quot;__identity&quot;:&quot;20c55475-68bd-45ef-b610-d9807a45a61a&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\ResizeImageAdjustment&quot;}]}
@@ -39,7 +38,6 @@
                     </lastPublicationDateTime>
                     <properties>
                         <title __type="string">Home</title>
-                        <layout __type="string">landingPage</layout>
                         <uriPathSegment __type="string">home</uriPathSegment>
                         <image __type="object" __identifier="64f06f70-6bd9-4fc1-a428-56591aefc704"
                                __classname="Neos\Media\Domain\Model\ImageVariant" __encoding="json">{&quot;__identity&quot;:&quot;64f06f70-6bd9-4fc1-a428-56591aefc704&quot;,&quot;originalAsset&quot;:{&quot;__identity&quot;:&quot;cd3e00c5-fee4-4a65-af30-4a0f98a1c040&quot;,&quot;title&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;KeyVisual.jpg&quot;,&quot;hash&quot;:&quot;43e0e13020b07f24180e6306eaae9a21d02601c7&quot;,&quot;__identity&quot;:&quot;fdfdfd14-e0b6-4495-b99f-e00b193f060e&quot;}},&quot;adjustments&quot;:[{&quot;height&quot;:1499,&quot;position&quot;:10,&quot;width&quot;:3000,&quot;x&quot;:0,&quot;y&quot;:315,&quot;__identity&quot;:&quot;59978394-ce3b-40ca-be5d-be7eef17fdd1&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment&quot;}]}
@@ -60,7 +58,6 @@
                     </lastPublicationDateTime>
                     <properties>
                         <title __type="string">Home</title>
-                        <layout __type="string">landingPage</layout>
                         <uriPathSegment __type="string">home</uriPathSegment>
                         <image __type="object" __identifier="6c96c286-fca4-4bf9-8eeb-75715c8f8757"
                                __classname="Neos\Media\Domain\Model\ImageVariant" __encoding="json">{&quot;__identity&quot;:&quot;6c96c286-fca4-4bf9-8eeb-75715c8f8757&quot;,&quot;originalAsset&quot;:{&quot;__identity&quot;:&quot;cd3e00c5-fee4-4a65-af30-4a0f98a1c040&quot;,&quot;title&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;KeyVisual.jpg&quot;,&quot;hash&quot;:&quot;43e0e13020b07f24180e6306eaae9a21d02601c7&quot;,&quot;__identity&quot;:&quot;fdfdfd14-e0b6-4495-b99f-e00b193f060e&quot;}},&quot;adjustments&quot;:[{&quot;height&quot;:1498,&quot;position&quot;:10,&quot;width&quot;:3000,&quot;x&quot;:0,&quot;y&quot;:0,&quot;__identity&quot;:&quot;e79190c0-38f9-4381-a9e4-4dc31ee0774e&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment&quot;},{&quot;allowUpScaling&quot;:false,&quot;height&quot;:1254,&quot;maximumHeight&quot;:null,&quot;maximumWidth&quot;:null,&quot;minimumHeight&quot;:null,&quot;minimumWidth&quot;:null,&quot;position&quot;:20,&quot;ratioMode&quot;:&quot;&quot;,&quot;width&quot;:2508,&quot;__identity&quot;:&quot;b948924b-7919-441b-bcb1-2699407383c8&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\ResizeImageAdjustment&quot;}]}
@@ -82,7 +79,6 @@
                     </lastPublicationDateTime>
                     <properties>
                         <title __type="string">Home</title>
-                        <layout __type="string">landingPage</layout>
                         <uriPathSegment __type="string">home</uriPathSegment>
                         <image __type="object" __identifier="7def8395-a1b3-4253-9779-871cd6bf9465"
                                __classname="Neos\Media\Domain\Model\ImageVariant" __encoding="json">{&quot;__identity&quot;:&quot;7def8395-a1b3-4253-9779-871cd6bf9465&quot;,&quot;originalAsset&quot;:{&quot;__identity&quot;:&quot;cd3e00c5-fee4-4a65-af30-4a0f98a1c040&quot;,&quot;title&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;KeyVisual.jpg&quot;,&quot;hash&quot;:&quot;43e0e13020b07f24180e6306eaae9a21d02601c7&quot;,&quot;__identity&quot;:&quot;fdfdfd14-e0b6-4495-b99f-e00b193f060e&quot;}},&quot;adjustments&quot;:[{&quot;height&quot;:1498,&quot;position&quot;:10,&quot;width&quot;:3000,&quot;x&quot;:0,&quot;y&quot;:0,&quot;__identity&quot;:&quot;e767dad3-edfb-466e-a972-a9ffc4d4d315&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment&quot;},{&quot;allowUpScaling&quot;:false,&quot;height&quot;:1254,&quot;maximumHeight&quot;:null,&quot;maximumWidth&quot;:null,&quot;minimumHeight&quot;:null,&quot;minimumWidth&quot;:null,&quot;position&quot;:20,&quot;ratioMode&quot;:&quot;&quot;,&quot;width&quot;:2508,&quot;__identity&quot;:&quot;2f04d806-b1e4-4a1e-979d-d0b041d6d6b3&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\ResizeImageAdjustment&quot;}]}
@@ -104,7 +100,6 @@
                     </lastPublicationDateTime>
                     <properties>
                         <title __type="string">Home</title>
-                        <layout __type="string">landingPage</layout>
                         <uriPathSegment __type="string">home</uriPathSegment>
                         <image __type="object" __identifier="7ec9f59c-1b6b-4312-af35-740e5aef4d68"
                                __classname="Neos\Media\Domain\Model\ImageVariant" __encoding="json">{&quot;__identity&quot;:&quot;7ec9f59c-1b6b-4312-af35-740e5aef4d68&quot;,&quot;originalAsset&quot;:{&quot;__identity&quot;:&quot;cd3e00c5-fee4-4a65-af30-4a0f98a1c040&quot;,&quot;title&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;KeyVisual.jpg&quot;,&quot;hash&quot;:&quot;43e0e13020b07f24180e6306eaae9a21d02601c7&quot;,&quot;__identity&quot;:&quot;fdfdfd14-e0b6-4495-b99f-e00b193f060e&quot;}},&quot;adjustments&quot;:[{&quot;height&quot;:1498,&quot;position&quot;:10,&quot;width&quot;:3000,&quot;x&quot;:0,&quot;y&quot;:0,&quot;__identity&quot;:&quot;bac444e6-8a7f-4ad6-8169-a6c2f345f25a&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment&quot;},{&quot;allowUpScaling&quot;:false,&quot;height&quot;:1254,&quot;maximumHeight&quot;:null,&quot;maximumWidth&quot;:null,&quot;minimumHeight&quot;:null,&quot;minimumWidth&quot;:null,&quot;position&quot;:20,&quot;ratioMode&quot;:&quot;&quot;,&quot;width&quot;:2508,&quot;__identity&quot;:&quot;5602e113-2caa-44dd-a573-9665a5165a92&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\ResizeImageAdjustment&quot;}]}
@@ -126,7 +121,6 @@
                     </lastPublicationDateTime>
                     <properties>
                         <title __type="string">Home</title>
-                        <layout __type="string">landingPage</layout>
                         <uriPathSegment __type="string">home</uriPathSegment>
                         <image __type="object" __identifier="ecf358b6-8d39-43b7-84c9-15703b7b21d7"
                                __classname="Neos\Media\Domain\Model\ImageVariant" __encoding="json">{&quot;__identity&quot;:&quot;ecf358b6-8d39-43b7-84c9-15703b7b21d7&quot;,&quot;originalAsset&quot;:{&quot;__identity&quot;:&quot;cd3e00c5-fee4-4a65-af30-4a0f98a1c040&quot;,&quot;title&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;KeyVisual.jpg&quot;,&quot;hash&quot;:&quot;43e0e13020b07f24180e6306eaae9a21d02601c7&quot;,&quot;__identity&quot;:&quot;fdfdfd14-e0b6-4495-b99f-e00b193f060e&quot;}},&quot;adjustments&quot;:[{&quot;height&quot;:1498,&quot;position&quot;:10,&quot;width&quot;:3000,&quot;x&quot;:0,&quot;y&quot;:0,&quot;__identity&quot;:&quot;de53965d-e2c9-4eb8-b1fb-24ef8974e3ec&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment&quot;},{&quot;allowUpScaling&quot;:false,&quot;height&quot;:1254,&quot;maximumHeight&quot;:null,&quot;maximumWidth&quot;:null,&quot;minimumHeight&quot;:null,&quot;minimumWidth&quot;:null,&quot;position&quot;:20,&quot;ratioMode&quot;:&quot;&quot;,&quot;width&quot;:2508,&quot;__identity&quot;:&quot;791d4d47-1520-4b7c-9100-391bdfa38e82&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\ResizeImageAdjustment&quot;}]}
